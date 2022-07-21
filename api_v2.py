@@ -38,6 +38,4 @@ def api_all():
 app.run()
 
 
-
-
 #type http://127.0.0.1:5000/api/v1/resources/books/all into the browser to view the output
