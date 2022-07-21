@@ -3,4 +3,4 @@ Simply practicing using Flask to create my own API; the skills learned here will
 
 Output:
 
-<img width="1440" alt="Screen Shot 2022-07-21 at 1 06 55 AM" src="https://user-images.githubusercontent.com/81287555/180163439-45ccaa7d-9b0f-4fde-ac50-ee67458dd763.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/81287555/180163991-b4d07b4b-045b-417c-abc7-a6838052b4e9.png">
